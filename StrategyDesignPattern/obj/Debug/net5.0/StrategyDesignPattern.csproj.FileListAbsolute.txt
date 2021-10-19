@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.exe
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.deps.json
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.runtimeconfig.json
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.runtimeconfig.dev.json
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.dll
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StrategyDesignPattern\bin\Debug\net5.0\ref\StrategyDesignPattern.dll
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StrategyDesignPattern\bin\Debug\net5.0\StrategyDesignPattern.pdb
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.AssemblyInfo.cs
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.dll
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StrategyDesignPattern\obj\Debug\net5.0\ref\StrategyDesignPattern.dll
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.pdb
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StrategyDesignPattern\obj\Debug\net5.0\StrategyDesignPattern.genruntimeconfig.cache

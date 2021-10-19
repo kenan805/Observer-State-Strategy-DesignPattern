@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StateDesignPattern\bin\Debug\net5.0\StateDesignPattern.exe
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StateDesignPattern\bin\Debug\net5.0\StateDesignPattern.deps.json
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StateDesignPattern\bin\Debug\net5.0\StateDesignPattern.runtimeconfig.json
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StateDesignPattern\bin\Debug\net5.0\StateDesignPattern.runtimeconfig.dev.json
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StateDesignPattern\bin\Debug\net5.0\StateDesignPattern.dll
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StateDesignPattern\bin\Debug\net5.0\ref\StateDesignPattern.dll
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StateDesignPattern\bin\Debug\net5.0\StateDesignPattern.pdb
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StateDesignPattern\obj\Debug\net5.0\StateDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StateDesignPattern\obj\Debug\net5.0\StateDesignPattern.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StateDesignPattern\obj\Debug\net5.0\StateDesignPattern.AssemblyInfo.cs
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StateDesignPattern\obj\Debug\net5.0\StateDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StateDesignPattern\obj\Debug\net5.0\StateDesignPattern.dll
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StateDesignPattern\obj\Debug\net5.0\ref\StateDesignPattern.dll
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StateDesignPattern\obj\Debug\net5.0\StateDesignPattern.pdb
+C:\Users\user\source\repos\Observer,State,StrategyDesignPatterns\StateDesignPattern\obj\Debug\net5.0\StateDesignPattern.genruntimeconfig.cache
